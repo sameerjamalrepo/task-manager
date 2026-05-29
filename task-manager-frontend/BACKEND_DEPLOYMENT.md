@@ -8,7 +8,7 @@ Your frontend is ready for Vercel. Now you need to deploy the backend first.
 |---------|------|--------|----------|-------------|-----------------|
 | **Railway** | Free tier + pay per use | ⭐ Easiest | Built-in PostgreSQL | ✅ Yes | 🎯 **Best for beginners** |
 | **Render** | Free tier available | ⭐⭐ Easy | Free PostgreSQL | ✅ Yes | ✅ Good alternative |
-| **Fly.io** | Free tier | ⭐⭐ Medium | Separate DB needed | ✅ Yes | ✅ Good for scaling |
+| **Fly.io** | Free tier | ⭐⭐ Medium  | Separate DB needed | ✅ Yes | ✅ Good for scaling |
 | **DigitalOcean** | $5/month | ⭐⭐⭐ Moderate | App Platform + DB | ✅ Yes | ✅ Affordable |
 | **Heroku** | Paid only | ⭐ Easy | PostgreSQL add-on | ✅ Yes | ⚠️ No free tier |
 
